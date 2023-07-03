@@ -1,0 +1,36 @@
+{
+  "name": "nodebb-plugin-reputation-plus",
+  "version": "1.0.0",
+  "description": "Adds reputation points to the author's account for topics on the count of Replies & count of Likes and count of Views.",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KumavatVjy/nodebb-plugin-reputation-plus"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "reputation"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KumavatVjy/nodebb-plugin-reputation-plus/issues"
+  },
+  "nbbpm": {
+    "compatibility": "^3.0.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "17.4.2",
+    "@commitlint/config-angular": "17.4.2",
+    "eslint": "8.32.0",
+    "eslint-config-nodebb": "0.2.1",
+    "eslint-plugin-import": "2.27.5",
+    "husky": "8.0.3",
+    "lint-staged": "13.1.0"
+  },
+  "dependencies": {
+    "eventsource": "^2.0.2",
+    "node-fetch": "^2",
+    "validator": "^13.7.0"
+  }
+}

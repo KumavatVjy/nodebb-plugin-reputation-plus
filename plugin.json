@@ -1,0 +1,11 @@
+{
+	"id": "nodebb-plugin-reputation-plus",
+	"name": "Reputation Plus",
+	"description": "Adds reputation points to the author's account for topics on the count of Replies & count of Likes and count of Views.",
+	"version": "1.0.0",
+	"author": "Vijay Kumavat",
+	"nbbpm": {
+	  "compatibility": "^1.0.0"
+	}
+  }
+  
